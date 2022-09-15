@@ -1,7 +1,7 @@
 import re
 import requests
 import time
-from python.InitialCapitalization import InitialCapitalization
+from python.CapitalizeInitial import CapitalizeInitial
 
 subject = int(input("整形するデータの科目 0:機械 1:電気 2:情報 3:建設 4:化学 5:その他："))
 subjectData = ["Machine", "Electricity", "Information",
@@ -21,15 +21,15 @@ with open("data/" + subjectData[subject] + "Data.txt", "r", encoding="utf-8") as
         elif i % 6 == 2:
             if terminologyDataLine != roman + "\n":
                 terminologyData += roman + "\n" + \
-                    InitialCapitalization(terminologyDataLine)
+                    CapitalizeInitial(terminologyDataLine)
                 i += 2
                 continue
         elif i % 6 == 3:
-            terminologyData += InitialCapitalization(terminologyDataLine)
+            terminologyData += CapitalizeInitial(terminologyDataLine)
             i += 1
             continue
         elif i % 6 == 4:
-            meaning = InitialCapitalization(terminologyDataLine)
+            meaning = CapitalizeInitial(terminologyDataLine)
             if meaning[-2:-1] != ".":
                 terminologyData += meaning.rstrip() + ".\n"
             else:
