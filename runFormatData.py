@@ -1,6 +1,8 @@
 import re
-import requests
 import time
+
+import requests
+
 from python.CapitalizeInitial import CapitalizeInitial
 
 subject = int(input("整形するデータの科目 0:機械 1:電気 2:情報 3:建設 4:化学 5:その他："))
