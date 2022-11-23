@@ -58,3 +58,63 @@ hizumi
 Strain
 It is a measure of the deformation state of an object in continuum mechanics and shows how much the mass point in the object is displaced per unit length of the reference state of the object.
 ,
+合金
+ごうきん
+gokin
+Alloy
+An alloy is a mixture of chemical elements of which at least one is a metal. Unlike chemical compounds with metallic bases, an alloy will retain all the properties of a metal in the resulting material, such as electrical conductivity, ductility, opacity, and luster, but may have properties that differ from those of the pure metals, such as increased strength or hardness.
+,
+板金
+ばんきん
+bankin
+Sheet matal
+Sheet metal is metal formed into thin, flat pieces, usually by an industrial process. Sheet metal is one of the fundamental forms used in metalworking, and it can be cut and bent into a variety of shapes.
+,
+摩耗
+まもう
+mamo
+Wear
+Wear is the damaging, gradual removal or deformation of material at solid surfaces. Causes of wear can be mechanical (e.g., erosion) or chemical (e.g., corrosion). The study of wear and related processes is referred to as tribology.
+,
+公差
+こうさ
+kosa
+Tolerance
+Tolerances set the allowable deviation from assigned dimensions. Not setting a tolerance in a critical area may render the part unusable according to the design intent, as each fabrication method comes with a certain level of inaccuracy.
+,
+鋼
+はがね、こう
+hagane、ko
+Steel
+Steel is an alloy made up of iron with added carbon to improve its strength and fracture resistance compared to other forms of iron. Many other elements may be present or added.
+,
+曲げ
+まげ
+mage
+Bending
+In applied mechanics, bending (also known as flexure) characterizes the behavior of a slender structural element subjected to an external load applied perpendicularly to a longitudinal axis of the element.
+,
+せん断
+せんだん
+sendan
+Shearing
+In continuum mechanics, shearing refers to the occurrence of a shear strain, which is a deformation of a material substance in which parallel internal surfaces slide past one another. It is induced by a shear stress in the material.
+,
+切削
+せっさく
+setsusaku
+Cutting
+Cutting has been at the core of manufacturing throughout history. For metals many methods are used and can be grouped by the physical phenomenon used. It is the process of producing a work piece by removing unwanted material from a block of metal, in the form of chips.
+,
+研磨
+けんま
+kemma
+Polishing
+Polishing is the process of creating a smooth and shiny surface by rubbing it or by applying a chemical treatment, leaving a clean surface with a significant specular reflection (still limited by the index of refraction of the material according to the Fresnel equations).In some materials (such as metals, glasses, black or transparent stones), polishing is also able to reduce diffuse reflection to minimal values.
+,
+測定
+そくてい
+sokutei
+Measurement
+Measurement is the process of comparing unknown magnitude of certain parameter with the known predefined standard of that parameter. For the measurements results to be accurate, two conditions should be met. Scope of Measurement Measurements are one of crucial parts of not only mechanical engineering but all types of engineering fields.
+,
