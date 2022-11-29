@@ -118,3 +118,63 @@ sokutei
 Measurement
 Measurement is the process of comparing unknown magnitude of certain parameter with the known predefined standard of that parameter. For the measurements results to be accurate, two conditions should be met. Scope of Measurement Measurements are one of crucial parts of not only mechanical engineering but all types of engineering fields.
 ,
+表面粗さ
+ひょうめんあらさ
+hyomenarasa
+Surface roughness
+The degree of unevenness of the finished surface of a work machined by cutting, polishing, etc.
+,
+バイト
+ばいと
+baito
+Tool bit
+A tool bit is a non-rotary cutting tool used in metal lathes, shapers, and planers. Such cutters are also often referred to by the set-phrase name of single-point cutting tool, as distinguished from other cutting tools such as a saw or water jet cutter.
+,
+エンドミル
+えんどみる
+endomiru
+End mill
+An end mill is a type of milling cutter, a cutting tool used in industrial milling applications.
+,
+定盤
+じょうばん
+joban
+Surface plate
+A smooth table or block-like platform with a horizontal surface that serves as a reference plane.
+,
+鍛造
+たんぞう
+tanzo
+Forging
+Forging is a manufacturing process involving the shaping of metal using localized compressive forces. The blows are delivered with a hammer (often a power hammer) or a die.
+,
+万力
+まんりき
+manriki
+Vise
+A vise or vice (British English) is a mechanical apparatus used to secure an object to allow work to be performed on it. Vises have two parallel jaws, one fixed and the other movable, threaded in and out by a screw and lever.
+,
+ワーク
+わーく
+waku
+Work
+In the field of machining, objects to be machined with various types of machine tools.
+,
+寸法
+すんぽう
+sumpo
+Dimensions
+A numerical value that represents the size of a part's shape, such as its distance or angle from a certain reference.
+,
+治具
+じぐ
+jigu
+Jig
+A jig is a type of custom-made tool used to control the location and/or motion of parts or other tools.
+,
+引張強さ
+ひっぱりつよさ
+hitsuparitsuyosa
+Tensile strength
+The maximum tensile stress that can be applied to a specimen. If the tensile strength is exceeded, the material will fail.
+,
