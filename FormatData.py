@@ -13,6 +13,7 @@ with open("data/" + subjectData[subject] + "Data.txt", "r", encoding="utf-8") as
     i = 0
     roman = ""
     for terminologyDataLine in TerminologyData:
+        terminologyDataLine = terminologyDataLine.replace("　", " ")
         if i % 6 == 1:
             roman = requests.get(
                 "https://www.seonet.jp/useful/hebon/api.php?bmp=yes&word=" + terminologyDataLine).text.replace("<br>", "")
