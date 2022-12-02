@@ -178,3 +178,63 @@ hitsuparitsuyosa
 Tensile strength
 The maximum tensile stress that can be applied to a specimen. If the tensile strength is exceeded, the material will fail.
 ,
+歯車
+はぐるま
+haguruma
+Gear
+A gear is a rotating circular machine part having cut teeth or, in the case of a cogwheel or gearwheel, inserted teeth (called cogs), which mesh with another (compatible) toothed part to transmit (convert) torque and speed.
+,
+ばね
+ばね
+bane
+Spring
+A spring is an elastic object that stores mechanical energy. In everyday use the term often refers to coil springs, but there are many different spring designs. Modern springs are typically manufactured from spring steel, although some non-metallic objects like the bow are also springs.
+,
+硬さ
+かたさ
+katasa
+Hardness
+In materials science, hardness is a measure of the resistance to localized plastic deformation induced by either mechanical indentation or abrasion. In general, different materials differ in their hardness.
+,
+靭性
+じんせい
+jinsei
+Toughness
+In materials science and metallurgy, toughness is the ability of a material to absorb energy and plastically deform without fracturing. Toughness is the strength with which the material opposes rupture.
+,
+強度
+きょうど
+kyodo
+Ultimate tensile strength
+Ultimate tensile strength (UTS), often shortened to tensile strength (TS), ultimate strength is the maximum stress that a material can withstand while being stretched or pulled before breaking. In brittle materials the ultimate tensile strength is close to the yield point, whereas in ductile materials the ultimate tensile strength can be higher.
+,
+剛性
+ごうせい
+gosei
+Stiffness
+Stiffness is the extent to which an object resists deformation in response to an applied force. The complementary concept is flexibility or pliability the more flexible an object is, the less stiff it is.
+,
+脆性
+ぜいせい
+zeisei
+Brittleness
+A material is brittle if, when subjected to stress, it fractures with little elastic deformation and without significant plastic deformation. Brittle materials absorb relatively little energy prior to fracture, even those of high strength. Breaking is often accompanied by a sharp snapping sound.
+,
+疲労
+ひろう
+hiro
+Fatigue
+In materials science, fatigue is the initiation and propagation of cracks in a material due to cyclic loading.
+,
+粘度
+ねんど
+nendo
+Viscosity
+The viscosity of a fluid is a measure of its resistance to deformation at a given rate.
+,
+展延性
+てんえんせい
+tenensei
+Ductility
+Ductility is a mechanical property commonly described as a material's amenability to drawing (e.g. into wire). In materials science, ductility is defined by the degree to which a material can sustain plastic deformation under tensile stress before failure.
+,
