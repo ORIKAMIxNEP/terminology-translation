@@ -1,1 +1,1 @@
-# TerminologyTranslation
+# terminology-translation
